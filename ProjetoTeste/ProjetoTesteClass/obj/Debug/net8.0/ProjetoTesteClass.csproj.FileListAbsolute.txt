@@ -24,3 +24,16 @@ C:\TDS01\ProjetosCsharp\ProjetosCsharp\ProjetoTeste\ProjetoTesteClass\obj\Debug\
 C:\TDS01\ProjetosCsharp\ProjetosCsharp\ProjetoTeste\ProjetoTesteClass\obj\Debug\net8.0\refint\ProjetoTesteClass.dll
 C:\TDS01\ProjetosCsharp\ProjetosCsharp\ProjetoTeste\ProjetoTesteClass\obj\Debug\net8.0\ProjetoTesteClass.pdb
 C:\TDS01\ProjetosCsharp\ProjetosCsharp\ProjetoTeste\ProjetoTesteClass\obj\Debug\net8.0\ref\ProjetoTesteClass.dll
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetoPessoal\ProjetoTeste\ProjetoTesteClass\bin\Debug\net8.0\ProjetoTesteClass.deps.json
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetoPessoal\ProjetoTeste\ProjetoTesteClass\bin\Debug\net8.0\ProjetoTesteClass.dll
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetoPessoal\ProjetoTeste\ProjetoTesteClass\bin\Debug\net8.0\ProjetoTesteClass.pdb
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetoPessoal\ProjetoTeste\ProjetoTesteClass\obj\Debug\net8.0\ProjetoTesteClass.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetoPessoal\ProjetoTeste\ProjetoTesteClass\obj\Debug\net8.0\ProjetoTesteClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetoPessoal\ProjetoTeste\ProjetoTesteClass\obj\Debug\net8.0\ProjetoTesteClass.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetoPessoal\ProjetoTeste\ProjetoTesteClass\obj\Debug\net8.0\ProjetoTesteClass.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetoPessoal\ProjetoTeste\ProjetoTesteClass\obj\Debug\net8.0\ProjetoTesteClass.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetoPessoal\ProjetoTeste\ProjetoTesteClass\obj\Debug\net8.0\ProjetoTesteClass.sourcelink.json
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetoPessoal\ProjetoTeste\ProjetoTesteClass\obj\Debug\net8.0\ProjetoTesteClass.dll
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetoPessoal\ProjetoTeste\ProjetoTesteClass\obj\Debug\net8.0\refint\ProjetoTesteClass.dll
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetoPessoal\ProjetoTeste\ProjetoTesteClass\obj\Debug\net8.0\ProjetoTesteClass.pdb
+C:\Users\Gabriel\Documents\GitHub\TDS01\ProjetoPessoal\ProjetoTeste\ProjetoTesteClass\obj\Debug\net8.0\ref\ProjetoTesteClass.dll

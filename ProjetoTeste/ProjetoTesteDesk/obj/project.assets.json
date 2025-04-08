@@ -1626,23 +1626,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gabriel.cmmariano\\.nuget\\packages\\": {},
+    "C:\\Users\\Gabriel\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TDS01\\ProjetosCsharp\\ProjetosCsharp\\ProjetoTeste\\ProjetoTesteDesk\\ProjetoTesteDesk.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\GitHub\\TDS01\\ProjetoPessoal\\ProjetoTeste\\ProjetoTesteDesk\\ProjetoTesteDesk.csproj",
       "projectName": "ProjetoTesteDesk",
-      "projectPath": "C:\\TDS01\\ProjetosCsharp\\ProjetosCsharp\\ProjetoTeste\\ProjetoTesteDesk\\ProjetoTesteDesk.csproj",
-      "packagesPath": "C:\\Users\\gabriel.cmmariano\\.nuget\\packages\\",
-      "outputPath": "C:\\TDS01\\ProjetosCsharp\\ProjetosCsharp\\ProjetoTeste\\ProjetoTesteDesk\\obj\\",
+      "projectPath": "C:\\Users\\Gabriel\\Documents\\GitHub\\TDS01\\ProjetoPessoal\\ProjetoTeste\\ProjetoTesteDesk\\ProjetoTesteDesk.csproj",
+      "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gabriel\\Documents\\GitHub\\TDS01\\ProjetoPessoal\\ProjetoTeste\\ProjetoTesteDesk\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\gabriel.cmmariano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1657,8 +1657,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\TDS01\\ProjetosCsharp\\ProjetosCsharp\\ProjetoTeste\\ProjetoTesteClass\\ProjetoTesteClass.csproj": {
-              "projectPath": "C:\\TDS01\\ProjetosCsharp\\ProjetosCsharp\\ProjetoTeste\\ProjetoTesteClass\\ProjetoTesteClass.csproj"
+            "C:\\Users\\Gabriel\\Documents\\GitHub\\TDS01\\ProjetoPessoal\\ProjetoTeste\\ProjetoTesteClass\\ProjetoTesteClass.csproj": {
+              "projectPath": "C:\\Users\\Gabriel\\Documents\\GitHub\\TDS01\\ProjetoPessoal\\ProjetoTeste\\ProjetoTesteClass\\ProjetoTesteClass.csproj"
             }
           }
         }
@@ -1671,9 +1671,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -1697,7 +1697,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
